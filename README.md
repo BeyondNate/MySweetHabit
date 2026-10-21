@@ -378,4 +378,4 @@ Si deseas permitir que otras personas utilicen, modifiquen y distribuyan el cód
   Pequeños hábitos. Mejores decisiones. Más bienestar.
   <br/><br/>
   <i>Desarrollado con dedicación para una vida universitaria más equilibrada.</i>
-</p>
+</p> <!-- hola -->
